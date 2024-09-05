@@ -12,7 +12,7 @@ The data for this dashboard is sourced from historical IPL datasets, including m
 - Match Outcomes: Understand the impact of toss decisions, match results by venue, and win types.
 - Historical Trends: Analyze season-wise trends in runs, wickets, and match outcomes.
 
-## Dashboard Snapshot:
+## 🖼️ Dashboard Snapshot
 ![Dashboard](IPL_Dashboard.png)
 
 ### 😊 Thankyou !! ✨
