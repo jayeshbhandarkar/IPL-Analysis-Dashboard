@@ -13,6 +13,6 @@ The data for this dashboard is sourced from historical IPL datasets, including m
 - Historical Trends: Analyze season-wise trends in runs, wickets, and match outcomes.
 
 ## Dashboard Snapshot:
-
+![Dashboard](IPL_Dashboard.png)
 
 ### 😊 Thankyou !! ✨
